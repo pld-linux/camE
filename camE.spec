@@ -1,12 +1,12 @@
 Summary:	A rewrite of the xawtv webcam app, which adds imlib2 support
 Summary(pl):	Przepisany z dodaniem wsparcia dla imlib2 program do kamer internetowych xawtv
 Name:		camE
-Version:	1.7
+Version:	1.9
 Release:	1
 License:	GPL
 Group:		X11/Applications/Multimedia
 Source0:	http://linuxbrit.co.uk/downloads/%{name}-%{version}.tar.gz
-# Source0-md5:	afdab327ca50ee15197d2d9e19491df7
+# Source0-md5:	8bdc049b01cd32088eef8cccf3c096ab
 URL:		http://linuxbrit.co.uk/camE/
 BuildRequires:	curl-devel
 BuildRequires:	freetype1-devel
