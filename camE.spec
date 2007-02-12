@@ -1,5 +1,5 @@
 Summary:	A rewrite of the xawtv webcam app, which adds imlib2 support
-Summary(pl.UTF-8):   Przepisany z dodaniem wsparcia dla imlib2 program do kamer internetowych xawtv
+Summary(pl.UTF-8):	Przepisany z dodaniem wsparcia dla imlib2 program do kamer internetowych xawtv
 Name:		camE
 Version:	1.9
 Release:	1
